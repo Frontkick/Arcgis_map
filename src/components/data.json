@@ -1,0 +1,774 @@
+[
+  {
+
+    
+        "products": [
+          {
+            "productName": "Laptop AMZ 1",
+            "price": 2236,
+            "rating": 4.7,
+            "discount": 63,
+            "availability": "yes"
+          },
+          {
+            "productName": "Laptop AMZ 2",
+            "price": 1244,
+            "rating": 4.5,
+            "discount": 45,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        
+        "products": [
+          {
+            "productName": "Phone AMZ 1",
+            "price": 9102,
+            "rating": 4.44,
+            "discount": 98,
+            "availability": "out-of-stock"
+          },
+          {
+            "productName": "Phone AMZ 2",
+            "price": 2652,
+            "rating": 4.12,
+            "discount": 70,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        
+        "products": [
+          {
+            "productName": "TV AMZ 1",
+            "price": 1258,
+            "rating": 3.8,
+            "discount": 33,
+            "availability": "yes"
+          },
+          {
+            "productName": "TV AMZ 2",
+            "price": 8686,
+            "rating": 3.22,
+            "discount": 24,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Earphone",
+        "products": [
+          {
+            "productName": "Earphone AMZ 1",
+            "price": 9254,
+            "rating": 3,
+            "discount": 56,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Tablet",
+        "products": [
+          {
+            "productName": "Tablet AMZ 1",
+            "price": 1059,
+            "rating": 2.77,
+            "discount": 21,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Charger",
+        "products": [
+          {
+            "productName": "Charger AMZ 1",
+            "price": 7145,
+            "rating": 2.74,
+            "discount": 15,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Mouse",
+        "products": [
+          {
+            "productName": "Mouse AMZ 1",
+            "price": 4101,
+            "rating": 2.67,
+            "discount": 37,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Keypad",
+        "products": [
+          {
+            "productName": "Keypad AMZ 1",
+            "price": 3130,
+            "rating": 4.2,
+            "discount": 60,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Bluetooth",
+        "products": [
+          {
+            "productName": "Bluetooth AMZ 1",
+            "price": 2788,
+            "rating": 3.9,
+            "discount": 25,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Pendrive",
+        "products": [
+          {
+            "productName": "Pendrive AMZ 1",
+            "price": 5100,
+            "rating": 4.5,
+            "discount": 30,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Remote",
+        "products": [
+          {
+            "productName": "Remote AMZ 1",
+            "price": 4800,
+            "rating": 3.8,
+            "discount": 15,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Speaker",
+        "products": [
+          {
+            "productName": "Speaker AMZ 1",
+            "price": 3600,
+            "rating": 4.1,
+            "discount": 50,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Headset",
+        "products": [
+          {
+            "productName": "Headset AMZ 1",
+            "price": 2236,
+            "rating": 4.7,
+            "discount": 63,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "PC",
+        "products": [
+          {
+            "productName": "PC AMZ 1",
+            "price": 1244,
+            "rating": 4.5,
+            "discount": 45,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Computer",
+        "products": [
+          {
+            "productName": "Computer AMZ 1",
+            "price": 9102,
+            "rating": 4.44,
+            "discount": 98,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+    
+  {
+    "company": "FLP",
+    "categories": [
+      {
+        "categoryName": "Laptop",
+        "products": [
+          {
+            "productName": "Laptop FLP 1",
+            "price": 2652,
+            "rating": 4.12,
+            "discount": 70,
+            "availability": "yes"
+          },
+          {
+            "productName": "Laptop FLP 2",
+            "price": 1258,
+            "rating": 3.8,
+            "discount": 33,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Phone",
+        "products": [
+          {
+            "productName": "Phone FLP 1",
+            "price": 8686,
+            "rating": 3.22,
+            "discount": 24,
+            "availability": "out-of-stock"
+          },
+          {
+            "productName": "Phone FLP 2",
+            "price": 9254,
+            "rating": 3,
+            "discount": 56,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "TV",
+        "products": [
+          {
+            "productName": "TV FLP 1",
+            "price": 1059,
+            "rating": 2.77,
+            "discount": 21,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Earphone",
+        "products": [
+          {
+            "productName": "Earphone FLP 1",
+            "price": 7145,
+            "rating": 2.74,
+            "discount": 15,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Tablet",
+        "products": [
+          {
+            "productName": "Tablet FLP 1",
+            "price": 4101,
+            "rating": 2.67,
+            "discount": 37,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Charger",
+        "products": [
+          {
+            "productName": "Charger FLP 1",
+            "price": 3130,
+            "rating": 4.2,
+            "discount": 60,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Mouse",
+        "products": [
+          {
+            "productName": "Mouse FLP 1",
+            "price": 2788,
+            "rating": 3.9,
+            "discount": 25,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Keypad",
+        "products": [
+          {
+            "productName": "Keypad FLP 1",
+            "price": 5100,
+            "rating": 4.5,
+            "discount": 30,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Bluetooth",
+        "products": [
+          {
+            "productName": "Bluetooth FLP 1",
+            "price": 4800,
+            "rating": 3.8,
+            "discount": 15,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Pendrive",
+        "products": [
+          {
+            "productName": "Pendrive FLP 1",
+            "price": 3600,
+            "rating": 4.1,
+            "discount": 50,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Remote",
+        "products": [
+          {
+            "productName": "Remote FLP 1",
+            "price": 2236,
+            "rating": 4.7,
+            "discount": 63,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Speaker",
+        "products": [
+          {
+            "productName": "Speaker FLP 1",
+            "price": 1244,
+            "rating": 4.5,
+            "discount": 45,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Headset",
+        "products": [
+          {
+            "productName": "Headset FLP 1",
+            "price": 9102,
+            "rating": 4.44,
+            "discount": 98,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "PC",
+        "products": [
+          {
+            "productName": "PC FLP 1",
+            "price": 1258,
+            "rating": 3.8,
+            "discount": 33,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Computer",
+        "products": [
+          {
+            "productName": "Computer FLP 1",
+            "price": 8686,
+            "rating": 3.22,
+            "discount": 24,
+            "availability": "out-of-stock"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "company": "SNP",
+    "categories": [
+      {
+        "categoryName": "Laptop",
+        "products": [
+          {
+            "productName": "Laptop SNP 1",
+            "price": 9254,
+            "rating": 3,
+            "discount": 56,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Phone",
+        "products": [
+          {
+            "productName": "Phone SNP 1",
+            "price": 1059,
+            "rating": 2.77,
+            "discount": 21,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "TV",
+        "products": [
+          {
+            "productName": "TV SNP 1",
+            "price": 7145,
+            "rating": 2.74,
+            "discount": 15,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Earphone",
+        "products": [
+          {
+            "productName": "Earphone SNP 1",
+            "price": 4101,
+            "rating": 2.67,
+            "discount": 37,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Tablet",
+        "products": [
+          {
+            "productName": "Tablet SNP 1",
+            "price": 3130,
+            "rating": 4.2,
+            "discount": 60,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Charger",
+        "products": [
+          {
+            "productName": "Charger SNP 1",
+            "price": 2788,
+            "rating": 3.9,
+            "discount": 25,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Mouse",
+        "products": [
+          {
+            "productName": "Mouse SNP 1",
+            "price": 5100,
+            "rating": 4.5,
+            "discount": 30,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Keypad",
+        "products": [
+          {
+            "productName": "Keypad SNP 1",
+            "price": 4800,
+            "rating": 3.8,
+            "discount": 15,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Bluetooth",
+        "products": [
+          {
+            "productName": "Bluetooth SNP 1",
+            "price": 3600,
+            "rating": 4.1,
+            "discount": 50,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Pendrive",
+        "products": [
+          {
+            "productName": "Pendrive SNP 1",
+            "price": 2236,
+            "rating": 4.7,
+            "discount": 63,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Remote",
+        "products": [
+          {
+            "productName": "Remote SNP 1",
+            "price": 1244,
+            "rating": 4.5,
+            "discount": 45,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Speaker",
+        "products": [
+          {
+            "productName": "Speaker SNP 1",
+            "price": 9102,
+            "rating": 4.44,
+            "discount": 98,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Headset",
+        "products": [
+          {
+            "productName": "Headset SNP 1",
+            "price": 1258,
+            "rating": 3.8,
+            "discount": 33,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "PC",
+        "products": [
+          {
+            "productName": "PC SNP 1",
+            "price": 8686,
+            "rating": 3.22,
+            "discount": 24,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Computer",
+        "products": [
+          {
+            "productName": "Computer SNP 1",
+            "price": 1059,
+            "rating": 2.77,
+            "discount": 21,
+            "availability": "yes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "company": "MYN",
+    "categories": [
+      {
+        "categoryName": "Laptop",
+        "products": [
+          {
+            "productName": "Laptop MYN 1",
+            "price": 7145,
+            "rating": 2.74,
+            "discount": 15,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Phone",
+        "products": [
+          {
+            "productName": "Phone MYN 1",
+            "price": 3130,
+            "rating": 4.2,
+            "discount": 60,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "TV",
+        "products": [
+          {
+            "productName": "TV MYN 1",
+            "price": 2788,
+            "rating": 3.9,
+            "discount": 25,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Earphone",
+        "products": [
+          {
+            "productName": "Earphone MYN 1",
+            "price": 5100,
+            "rating": 4.5,
+            "discount": 30,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Tablet",
+        "products": [
+          {
+            "productName": "Tablet MYN 1",
+            "price": 4800,
+            "rating": 3.8,
+            "discount": 15,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Charger",
+        "products": [
+          {
+            "productName": "Charger MYN 1",
+            "price": 3600,
+            "rating": 4.1,
+            "discount": 50,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Mouse",
+        "products": [
+          {
+            "productName": "Mouse MYN 1",
+            "price": 2236,
+            "rating": 4.7,
+            "discount": 63,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Keypad",
+        "products": [
+          {
+            "productName": "Keypad MYN 1",
+            "price": 1244,
+            "rating": 4.5,
+            "discount": 45,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Bluetooth",
+        "products": [
+          {
+            "productName": "Bluetooth MYN 1",
+            "price": 9102,
+            "rating": 4.44,
+            "discount": 98,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Pendrive",
+        "products": [
+          {
+            "productName": "Pendrive MYN 1",
+            "price": 1258,
+            "rating": 3.8,
+            "discount": 33,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Remote",
+        "products": [
+          {
+            "productName": "Remote MYN 1",
+            "price": 8686,
+            "rating": 3.22,
+            "discount": 24,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Speaker",
+        "products": [
+          {
+            "productName": "Speaker MYN 1",
+            "price": 1059,
+            "rating": 2.77,
+            "discount": 21,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "Headset",
+        "products": [
+          {
+            "productName": "Headset MYN 1",
+            "price": 7145,
+            "rating": 2.74,
+            "discount": 15,
+            "availability": "yes"
+          }
+        ]
+      },
+      {
+        "categoryName": "PC",
+        "products": [
+          {
+            "productName": "PC MYN 1",
+            "price": 4101,
+            "rating": 2.67,
+            "discount": 37,
+            "availability": "out-of-stock"
+          }
+        ]
+      },
+      {
+        "categoryName": "Computer",
+        "products": [
+          {
+            "productName": "Computer MYN 1",
+            "price": 3130,
+            "rating": 4.2,
+            "discount": 60,
+            "availability": "yes"
+          }
+        ]
+      }
+    ]
+  }
+]
